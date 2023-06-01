@@ -12275,7 +12275,9 @@ figcaption {
   border: 0;
   vertical-align: middle;
   max-width: 100%;
+  border-radius: 10px;
   height: auto;
+  box-shadow: 4px 6px rgba(255, 1, 79, 1);
 }
 .slide .thumbnail.box-gradient::before {
   width: 100%;
